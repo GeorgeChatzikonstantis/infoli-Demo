@@ -8,11 +8,6 @@
  *
  * All Rights Reserved.
  *
- *
- * Author: Sebastian Isaza
- * Created: 19-01-2012
- * Modified: 07-08-2012
- *
  * Description: Top source file of the Inferior Olive model, originally written
  * in Matlab by Jornt De Gruijl. It contains the implementation of all functions.
  * The main function allocates the necessary memory, initializes the system
